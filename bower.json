@@ -1,0 +1,29 @@
+{
+  "name": "ng6-starter",
+  "description": "Starter for Angular + ES6 + (Webpack or JSPM)",
+  "main": "index.js",
+  "authors": [
+    "AngularClass"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "angular",
+    "webpack",
+    "es6"
+  ],
+  "homepage": "https://github.com/jefrey-tagunicar-indra/NG6-starter",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "components-font-awesome": "^4.5.0"
+  }
+}
